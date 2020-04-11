@@ -1,2 +1,5 @@
 # fly-with-EXCEL
-Make excel great again. 
+code function:
+
+detect tables
+count tables
